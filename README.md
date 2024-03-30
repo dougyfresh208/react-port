@@ -1,4 +1,4 @@
-# Steve Rouse Portfolio
+# Douglas Portfolio
 
 ## Description
 I created this page to showcase my app building skills in my portfolio.
@@ -24,6 +24,7 @@ FontAwesome
 
 ## Links
 Github: https://github.com/dougyfresh208/react-portfolio 
+
 Deployed site: https://genuine-figolla-905395.netlify.app/
 
 ## License
