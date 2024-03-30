@@ -10,7 +10,7 @@ form {
   textarea {
     padding: 8px;
     margin-bottom: 10px;
-    border: 1px solid white;
+    border: 1px solid rgb(255, 255, 255);
     border-radius: 9px;
     font-size: 14px; /* Add the font size */
   }
@@ -51,5 +51,6 @@ form {
   flex-direction: column;
   width: 100%;
   margin-bottom: 1rem;
+  color: #000000
 }
   

@@ -1,39 +1,42 @@
 [
     {
       "id": 1,
-      "title": "Weather App",
-      "description": "Current weather and a 5-day forecast",
-      "imageUrl": "./assets/weather-app.png"
+      "title": "Horiseon",
+      "description": "First site creation",
+      "imageUrl": "src/assets/horiseon.png",
+      "githubUrl": "https://github.com/dougyfresh208/horiseon-refactor"
     },
     {
       "id": 2,
-      "title": "Monacado",
-      "description": "The Monacado Network.",
-      "imageUrl": "./assets/monacado.png"
+      "title": "Forager",
+      "description": "Dining destination generator",
+      "imageUrl": "/src/assets/forager.jpeg",
+      "githubUrl": "https://github.com/dougyfresh208/BWWC"
     },
     {
       "id": 3,
-      "title": "Monacado",
-      "description": "The Monacado Network.",
-      "imageUrl": "./assets/monacado.png"
+      "title": "Weather App",
+      "description": "weather search app",
+      "imageUrl": "/src/assets/weather.jpeg",
+      "githubUrl":"https://github.com/dougyfresh208/weather-page"
     },
     {
       "id": 4,
-      "title": "Monacado",
-      "description": "The Monacado Network.",
-      "imageUrl": "./assets/monacado.png"
+      "title": "Coming Soon",
+      "description": "N/A",
+      "imageUrl": "/src/assets/download.png"
     },
     {
       "id": 5,
-      "title": "Monacado",
-      "description": "The Monacado Network.",
-      "imageUrl": "./assets/monacado.png"
+      "title": "Coming Soon",
+      "description": "N/A",
+      "imageUrl": "/src/assets/download.png"
     },
     {
       "id": 6,
-      "title": "Monacado",
-      "description": "The Monacado Network.",
-      "imageUrl": "./assets/monacado.png"
+      "title": "Coming Soon",
+      "description": "N/A",
+      "imageUrl": "/src/assets/download.png"
     }
   ]
   

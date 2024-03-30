@@ -1,6 +1,6 @@
 body {
   background-color: #5942d2;
-  background-image: url("./assets/dots.jpg");
+  background-image: url("./assets/paper-background.jpg");
   background-position: center center;
   background-size: cover; /* Add this line */
 }

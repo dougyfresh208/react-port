@@ -6,7 +6,7 @@ import './Header.css'; // Importing Header-specific styles
 function Header() {
   return (
     <header>
-      <h1>Steve Rouse</h1>
+      <h1>Douglas Rouse</h1>
       <Navigation />
     </header>
   );
