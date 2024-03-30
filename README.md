@@ -23,8 +23,8 @@ FontAwesome
 
 
 ## Links
-Github: https://github.com/dougyfresh208/react-portfolio  
-Deployed site: https://symphonious-pastelito-8d2626.netlify.app
+Github: https://github.com/dougyfresh208/react-portfolio 
+Deployed site: https://genuine-figolla-905395.netlify.app/
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
