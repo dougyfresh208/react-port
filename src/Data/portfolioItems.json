@@ -3,40 +3,40 @@
       "id": 1,
       "title": "Horiseon",
       "description": "First site creation",
-      "imageUrl": "../../src/assets/horiseon.png",
+      "imageUrl": "/assets/horiseon.png",
       "githubUrl": "https://github.com/dougyfresh208/horiseon-refactor"
     },
     {
       "id": 2,
       "title": "Forager",
       "description": "Dining destination generator",
-      "imageUrl": "../../src/assets/forager.jpeg",
+      "imageUrl": "/assets/forager.jpeg",
       "githubUrl": "https://github.com/dougyfresh208/BWWC"
     },
     {
       "id": 3,
       "title": "Weather App",
       "description": "weather search app",
-      "imageUrl": "../../src/assets/weather.jpeg",
+      "imageUrl": "/assets/weather.jpeg",
       "githubUrl":"https://github.com/dougyfresh208/weather-page"
     },
     {
       "id": 4,
       "title": "Coming Soon",
       "description": "N/A",
-      "imageUrl": "../../src/assets/download.png"
+      "imageUrl": "/assets/download.png"
     },
     {
       "id": 5,
       "title": "Coming Soon",
       "description": "N/A",
-      "imageUrl": "../../src/assets/download.png"
+      "imageUrl": "/assets/download.png"
     },
     {
       "id": 6,
       "title": "Coming Soon",
       "description": "N/A",
-      "imageUrl": "../src/assets/download.png"
+      "imageUrl": "/assets/download.png"
     }
   ]
   
