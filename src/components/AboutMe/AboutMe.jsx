@@ -7,7 +7,7 @@ function AboutMe() {
     <div className="about-container">
       <div className="left-side">
         <h1>{aboutMeData.intro}</h1>
-        <img src="src/assets/profile-pic.jpg" alt="Doug" className="doug-image" />
+        <img src="./assets/profile-pic.jpg" alt="Doug" className="doug-image" />
       </div>
       <div className="right-side">
         {aboutMeData.paragraphs.map((paragraph, index) => (
